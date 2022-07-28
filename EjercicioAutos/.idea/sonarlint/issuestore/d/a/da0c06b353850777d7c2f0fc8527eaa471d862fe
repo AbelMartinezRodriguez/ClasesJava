@@ -1,0 +1,12 @@
+
+7
+java:S1643C"Use a StringBuilder instead.(§ßÆÈüÿÿÿÿ
+@
+java:S5411#"*Use the primitive boolean expression here.(ß‰´œ
+b
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(Ó¬Øø
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(²÷Ý¼ùÿÿÿÿ
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(ßØ±¦ÿÿÿÿÿ
+M	java:S1065"9Replace this use of System.out or System.err by a logger.(Þ¼¿x
+M	java:S106B"9Replace this use of System.out or System.err by a logger.(ÿ®Ái
+N	java:S106J"9Replace this use of System.out or System.err by a logger.(üÀªù
